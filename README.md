@@ -8,3 +8,9 @@ Things to be added later to the project
 1-Add comment section for each photo
 2--Add rating section.
 3-Add selling section . where visitors can buys the photos
+
+
+
+Link to the website
+
+https://agile-temple-36716.herokuapp.com/pics/1?id=1
